@@ -1,6 +1,4 @@
-# Homework 1
 ## Xiangning Gao
-## 998547853
 
 
 **In the LaunchScreen storyboard**:
